@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "PlatformIO",
+      "compileCommands": "${workspaceFolder}/compile_commands.json",
+      "cStandard": "c11",
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
